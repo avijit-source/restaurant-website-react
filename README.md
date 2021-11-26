@@ -4,7 +4,7 @@ technologies and libraries used : React js, Aos(animation on scroll) ,react-toas
 
 ## Check out the demo : https://restaurant-website-2021.netlify.app/
 
-In the project directory, you can run:
+website looks bad on small screens..feel free to make it responsive or add features
 
 ### `npm start`
 
