@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Restaurant Website Using React and firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+technologies and libraries used : React js, Aos(animation on scroll) ,react-toastify, firebase for form submission
 
-## Available Scripts
+## Check out the demo : https://restaurant-website-2021.netlify.app/
 
 In the project directory, you can run:
 
